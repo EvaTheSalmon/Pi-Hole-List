@@ -110,7 +110,6 @@ amdc.m.taobao.com
 amp-error-reporting.appspot.com
 ampproject.org
 amptrack-dailymail-co-uk.cdn.ampproject.org
-an.yandex.
 an.yandex.ru
 analytics-server.gimbal.com
 analytics-tracker.thescore.com
