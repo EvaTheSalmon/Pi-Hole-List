@@ -342,6 +342,7 @@ gj.applog.uc.cn
 gjapplog.uc.cn
 globalteaser.com
 globalteaser.ru
+googleadservices.com
 go.admost.com
 go.ezoic.net
 go.mobstitial.com
