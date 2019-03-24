@@ -183,7 +183,6 @@ beacon.qq.com
 begun-sync.rutarget.ru
 beha.ksmobile.com
 bet.championat.com
-bet.championat.com
 bidder.mdspinc.com
 bidsopt.com
 black6adv.com
@@ -219,7 +218,6 @@ cdn.ads.fotoable.net
 cdn.adskeeper.co.uk
 cdn.luxup.ru
 cdn.onesignal.com
-cdn.onthe.io
 cdn.onthe.io
 cdn.playbuzz.com
 cdn.pushwoosh.com
@@ -660,7 +658,6 @@ tizer.ssl-services.com
 tknet.rayjump.com
 tm1.hoiplay.com
 tns-counter.ru
-top-fwz1.mail.ru
 top-fwz1.mail.ru
 top-staging.mail.ru
 topf1.mail.ru
