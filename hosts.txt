@@ -715,7 +715,7 @@ white-windows.ru
 widget.engageya.com
 widget.onlinetv.ru
 wmhlch.com
-ws*://video.docfilms.info
+video.docfilms.info
 ws.ksmobile.net
 www.adfocus.ru
 www.adswithsalt.com
