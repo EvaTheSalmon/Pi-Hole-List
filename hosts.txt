@@ -110,6 +110,7 @@ amdc.m.taobao.com
 amp-error-reporting.appspot.com
 ampproject.org
 amptrack-dailymail-co-uk.cdn.ampproject.org
+an.yandex.
 an.yandex.ru
 analytics-server.gimbal.com
 analytics-tracker.thescore.com
@@ -342,12 +343,12 @@ gj.applog.uc.cn
 gjapplog.uc.cn
 globalteaser.com
 globalteaser.ru
-googleadservices.com
 go.admost.com
 go.ezoic.net
 go.mobstitial.com
 go.mobstitialtag.com
 goodgame.report-uri.io
+www.googleadservices.com
 gravatar.com
 gulfstream.vo.llnwd.net
 h-ct-m-fbx.fbsbx.com.online-metrix.net
@@ -734,3 +735,13 @@ yastatic.net
 yemonisoni.com
 ymtracking.com
 zoglafi.info
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
+encrypted-tbn4.gstatic.com
+encrypted-tbn5.gstatic.com
+encrypted-tbn6.gstatic.com
+encrypted-tbn7.gstatic.com
+encrypted-tbn8.gstatic.com
+encrypted-tbn9.gstatic.com
+encrypted-tbn10.gstatic.com
