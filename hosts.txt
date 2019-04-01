@@ -747,3 +747,4 @@ encrypted-tbn9.gstatic.com
 encrypted-tbn10.gstatic.com
 http://log.bumlam.com/
 direct.yandex.ru
+www.direct.yandex.ru
