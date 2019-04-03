@@ -758,3 +758,4 @@ encrypted-tbn10.gstatic.com
 http://log.bumlam.com/
 direct.yandex.ru
 www.direct.yandex.ru
+bid.g.doubleclick.net
