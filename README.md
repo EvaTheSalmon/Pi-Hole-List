@@ -1,6 +1,5 @@
 # Pi-Hole-List
-Some domains required blocking
-This is a list of domains which can be included to hosts file to reduce ads and trackers in your traffic
+Here are some domains required blocking which can be included to hosts file to reduce ads and trackers in your traffic
 
 Also added the following to my list:
 
