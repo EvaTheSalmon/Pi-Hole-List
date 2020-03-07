@@ -1,24 +1,24 @@
 .adsafeprotected.com
-.adsafeprotected.com # amazon app 6
-.amazon-adsystem.com # amazon app ads
-.anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
-.anycast.static.adsafeprotected.com # CNAME for (static.adsafeprotected.com)
+.adsafeprotected.com
+.amazon-adsystem.com
+.anycast.pixel.adsafeprotected.com
+.anycast.static.adsafeprotected.com
 .apple.com
-.bs.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
-.bs.serving-sys.com # amazon app 5
-.bsla.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
-.control.kochava.com # alexa 2
-.device-metrics-us-2.amazon.com # alexa 3
-.e13136.g.akamaiedge.net # CNAME for (px.moatads.com)
-.fls-na.amazon.com # alexa
+.bs.eyeblaster.akadns.net
+.bs.serving-sys.com
+.bsla.eyeblaster.akadns.net
+.control.kochava.com
+.device-metrics-us-2.amazon.com
+.e13136.g.akamaiedge.net
+.fls-na.amazon.com
 .github.com
 .githubusercontent.com
 .gitlab.com
-.pixel.adsafeprotected.com # amazon app 4
-.px.moatads.com # amazon app 2
-.secure-gl.imrworldwide.com # amazon app 3
+.pixel.adsafeprotected.com
+.px.moatads.com
+.secure-gl.imrworldwide.com
 .sourceforge.net
-.wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
+.wildcard.moatads.com.edgekey.net
 0.client-channel.google.com
 1.bp.blogspot.com
 1drv.com
@@ -252,11 +252,11 @@ cricketapi-icc.pulselive.com
 crisp.chat
 crunchbase.com
 cryptauthenrollment.googleapis.com
-cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
-cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
-cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
+cs196.wac.edgecastcdn.net
+cs2-wac-us.8315.ecdns.net
+cs2-wac.apr-8315.edgecastdns.net=
 cs22.wpc.v0cdn.net
-cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+cs45.wac.edgecastcdn.net
 cs9.wac.phicdn.net
 cse.google.com
 csi.gstatic.com
@@ -398,7 +398,7 @@ gist.githubusercontent.com
 github.com
 github.hubspot.com
 github.io
-github.map.fastly.net # CNAME for (raw.githubusercontent.com)
+github.map.fastly.net
 gitlab.com
 gizbot.com
 gizmodo.com
@@ -709,7 +709,7 @@ pastebin.com
 paypal.com
 paytm.com
 pbs.twimg.com
-pbs.twimg.com # twitter images
+pbs.twimg.com
 pgi.billdesk.com
 pgl.yoyo.org
 phishing.mailscanner.info
@@ -776,7 +776,7 @@ s0.wp.com
 s1.wp.com
 s2.youtube.com
 s2k7tnzlhrpw.statuspage.io
-s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
+s3-1.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
@@ -1006,7 +1006,7 @@ www.dbs.com
 www.developers.medium.com
 www.digitaltrends.com
 www.downloads.techrepublic.com
-www.dropbox-dns.com # CNAME for (dropbox.com)
+www.dropbox-dns.com
 www.dropbox.com
 www.dshield.org
 www.dw.techrepublic.com
@@ -1080,7 +1080,7 @@ www.olx.in
 www.package.chocolatey.org
 www.packages.chocolatey.org
 www.paperoak.com
-www.pbs.twimg.com # twitter images
+www.pbs.twimg.com
 www.pinterest.com
 www.play.googleapis.com
 www.plex.tv
@@ -1149,7 +1149,7 @@ youtu.be
 youtube-dl.org
 youtube-nocookie.com
 youtube-ui.l.google.com
-youtube-ui.l.google.com # CNAME for (youtube.com)
+youtube-ui.l.google.com
 youtube.com
 yt3.ggpht.com
 zapier.com
